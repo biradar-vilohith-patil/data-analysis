@@ -1,0 +1,54 @@
+Types of analysis:
+1.Descriptive analysis
+2.Predictive analysis
+3.Prescriptive analysis
+4.Diagnostic analysis
+
+Types of data :
+1.Categotical data
+2.Numerical data
+
+Categorical data:
+  1.Nominal data
+  2.Ordinal data
+
+Numerical data:
+  1.Discrete data
+  2.Continuous data
+
+Types of encoding:
+1.Label Encoding
+2.One-Hot Encoding
+
+Types of Sampling Methods:
+1.Random Sampling
+2.Stratified Sampling
+3.Cluster Sampling
+4.Systematic Sampling
+
+Types of Statistics:
+1.Descriptive Statistics
+2.Inferential Statistics
+
+-- Data Extracting and Filling Missing Values --
+
+Methods to handle missing values:
+1.Remove rows with missing values
+2.Fill with mean/median/mode
+
+Data Analysis Steps:
+1.Data Loading
+2.Data Cleaning
+3.Data Transformation
+4.Data Visualization
+
+
+z-score = xi - mu / std
+for analysing outliers
+
+
+There are 2 types of outliers 
+1.Due to error entry in the data 
+2.Due to natural variation in the data 
+
+you must Remove 1. but can keep 2. 
