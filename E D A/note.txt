@@ -52,3 +52,21 @@ There are 2 types of outliers
 2.Due to natural variation in the data 
 
 you must Remove 1. but can keep 2. 
+
+There are two types of outliers :
+- Outliers due to variability in data or not due to experimental errors
+- Outliers due to experimental errors
+- You must handle outliers due to experimental errors by removing them from the dataset.
+
+
+-- We can make the outliers less significant by applying transformations like log transformation, square root transformation etc. --
+Handling outliers:
+1. Remove outliers
+2. Transform data:
+    - Log Transformation - np.[fun]
+    - Power Transformation - sklearn :
+          1. Box - cox
+          2. yeo - johnson 
+
+-- Whenever you want to analyse the two categorical columns, use Chi-Square test --
+-- Whenever you want to analyse the two numerical columns, use Anova test --
